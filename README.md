@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jadedjelly
+- 👋 Hi, I’m John Kelly aka @jadedjelly
 - 👀 I’m interested in Devops & Python development
-- 🌱 I’m currently learning far too much to list
+- 🌱 I’m currently learning Docker, Terraform, Ansible, Jenkins, AWS, Ubuntu & Fedora
 - 💞️ I’m currently working to automate myself out of a job
 - 📫 How to reach me ...
 
